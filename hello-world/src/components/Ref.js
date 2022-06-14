@@ -26,7 +26,7 @@ import React, { Component } from 'react'
     return (
       <div>
         <input type="text" ref={this.inputef} />
-         <button onClick={this.focusHandler}>Click</button> 
+         <button onClick={this.focusHandler}>Click.................</button> 
       </div>
     )
   }
