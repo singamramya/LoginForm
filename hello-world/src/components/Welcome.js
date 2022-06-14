@@ -12,7 +12,7 @@ message:"heloo user"
         return (
          
             <div>
-<h1>Hello {name}{lname}</h1>
+<h1>Hello {name}{lname} yes</h1>
 <p>Welcome to Class</p>
 <button>Submit</button>
 
