@@ -13,7 +13,7 @@ message:"heloo user"
          
             <div>
 <h1>Hello {name}{lname} yes</h1>
-<p>Welcome to Class</p>
+<p>Welcome to Class........</p>
 <button>Submit</button>
 
             </div>
